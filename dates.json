@@ -1,0 +1,16 @@
+{
+    "dates": [
+        {
+            "id": 0,
+            "value": "2021-08-26",
+            "city": "Mérignac, France",
+            "place": "Le Krakatoa"
+        },
+        {
+            "id": 1,
+            "value": "2021-12-03",
+            "city": "Bruxelles, Belgique",
+            "place": "Le Tintin"
+        }
+    ]
+}
