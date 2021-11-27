@@ -4,13 +4,17 @@
             "id": 0,
             "value": "2022-01-29",
             "city": "Bordeaux, France",
-            "place": "Rock School Barbey"
+            "place": "Rock School Barbey",
+            "castingLink": "https://docs.google.com/forms/d/e/1FAIpQLSdP_Za44knN6_bC-Qy5MOryu8kUxf1M3u2b-EeXNur8S_iUmA/viewform",
+            "ticketsLink": "https://www.cityvent.com/events/tdiblfog"
         },
         {
             "id": 1,
             "value": "2022-02-12",
             "city": "Igny, France",
-            "place": ""
+            "place": "",
+            "castingLink": "",
+            "ticketsLink": "https://www.cityvent.com/events/96dk0wp1"
         }
     ]
 }
